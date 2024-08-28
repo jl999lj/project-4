@@ -1,1 +1,2 @@
-npm install @mui/material @emotion/react @emotion/styled firebase @clerk/nextjs stripe openai
+npm install next react react-dom firebase clerk-next openai stripe stripe-js
+
